@@ -11,8 +11,12 @@
             "id": "e04f0d630c953c8f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Final Project/Resorces.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Final Project/Resorces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Final Project/Resorces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Final Project/Resorces.md"
+              }
             }
           },
           {
@@ -147,11 +155,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6d0b736544fcc32",
+  "active": "e04f0d630c953c8f",
   "lastOpenFiles": [
+    "Final Project/CS50 CyberSecurity Final Project.md",
+    "Final Project/Resorces.md",
     "README.md",
-    "Assignment 2.md",
+    "Untitled 1.md",
     "Untitled.md",
+    "Final Project",
+    "Assignment 2.md",
     "Three Laws of Motions.md",
     "Obisidin.md",
     "Law of Interia.md",
